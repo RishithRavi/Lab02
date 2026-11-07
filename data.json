@@ -1,0 +1,25 @@
+{
+    "chart_title": "My Weekly Study Hours",
+    "data_points": [
+        {
+            "label": "CS 1301",
+            "value": 8
+        },
+        {
+            "label": "Calculus",
+            "value": 6
+        },
+        {
+            "label": "Chemistry",
+            "value": 5
+        },
+        {
+            "label": "English",
+            "value": 3
+        },
+        {
+            "label": "History",
+            "value": 2
+        }
+    ]
+}
